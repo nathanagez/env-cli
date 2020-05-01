@@ -1,0 +1,26 @@
+{
+  "name": "env-cli",
+  "version": "1.0.0",
+  "description": "A CLI to bootstrap my new projects",
+  "main": "lib/cli.js",
+  "bin": {
+    "env-cli": "bin/env-cli"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "preferGlobal": true,
+  "author": "Nathan AGEZ",
+  "license": "MIT",
+  "private": false,
+  "keywords": [
+    "cli",
+    "create-project"
+  ],
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "esm": "^3.2.25",
+    "glob": "^7.1.6",
+    "inquirer": "^7.1.0"
+  }
+}
