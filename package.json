@@ -1,22 +1,30 @@
 {
   "name": "env-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI to bootstrap my new projects",
-  "main": "lib/cli.js",
+  "homepage": "https://github.com/nathanagez/env-cli",
+  "main": "./lib/cli.js",
   "bin": {
-    "env-cli": "bin/env-cli"
+    "env-cli": "./bin/env-cli"
   },
   "publishConfig": {
     "access": "public"
   },
   "preferGlobal": true,
-  "author": "Nathan AGEZ",
+  "author": {
+    "name": "Nathan AGEZ",
+    "url": "https://github.com/nathanagez"
+  },
   "license": "MIT",
   "private": false,
   "keywords": [
     "cli",
     "create-project"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nathanagez/env-cli"
+  },
   "dependencies": {
     "dotenv": "^8.2.0",
     "esm": "^3.2.25",
