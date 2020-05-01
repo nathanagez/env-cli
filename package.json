@@ -1,6 +1,6 @@
 {
   "name": "env-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A CLI to bootstrap my new projects",
   "homepage": "https://github.com/nathanagez/env-cli",
   "main": "./lib/cli.js",
@@ -8,8 +8,7 @@
     "env-cli": "./bin/env-cli"
   },
   "publishConfig": {
-    "access": "public",
-    "registry": "https://npm.pkg.github.com/"
+    "access": "public"
   },
   "preferGlobal": true,
   "author": {

@@ -1,3 +1,9 @@
+[![npm version](https://badge.fury.io/js/env-cli.svg)](https://badge.fury.io/js/env-cli)
+[![GitHub stars](https://img.shields.io/github/stars/nathanagez/env-cli)](https://github.com/nathanagez/env-cli/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/nathanagez/env-cli)](https://github.com/nathanagez/env-cli/issues)
+[![GitHub license](https://img.shields.io/github/license/nathanagez/env-cli)](https://github.com/nathanagez/env-cli/blob/master/LICENSE)
+
+
 # Installation
 
 By using [npm](http://npmjs.org) or [yarn](https://yarnpkg.com/):
